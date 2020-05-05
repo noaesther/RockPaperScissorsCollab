@@ -3,15 +3,15 @@ body {
   align-content: center;
   text-align: center;
   font-family: Stencil Std, fantasy;
-  font-size: 50px;
+  font-size: 51px;
 }
 table {
 	margin-right: auto;
 	margin-left: auto;
 }
 button {
-  background-color: lightblue; /* Green */
-  border: 4px;
+  background-color: blue; 
+  border: 5px;
   border-color: green;
   border-radius: 50%;
   color: red;
@@ -25,5 +25,5 @@ button {
 }
 
 button:hover {
-	background-color: blue
+	background-color: yellow
 }
